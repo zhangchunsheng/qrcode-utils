@@ -6,7 +6,7 @@
     <packaging>jar</packaging>
     <version>1.0</version>
     <name>qrcode-utils</name>
-    <url>https://github.com/devops-utils/qrcode-utils</url>
+    <url>https://github.com/zhangchunsheng/qrcode-utils</url>
     <description>qrcode utils</description>
     <licenses>
         <license>
@@ -16,9 +16,9 @@
     </licenses>
 
     <scm>
-        <connection>scm:git:https://github.com/devops-utils/qrcode-utils.git</connection>
-        <developerConnection>scm:git:git@github.com:devops-utils/qrcode-utils.git</developerConnection>
-        <url>https://github.com/devops-utils/qrcode-utils</url>
+        <connection>scm:git:https://github.com/zhangchunsheng/qrcode-utils.git</connection>
+        <developerConnection>scm:git:git@github.com:zhangchunsheng/qrcode-utils.git</developerConnection>
+        <url>https://github.com/zhangchunsheng/qrcode-utils</url>
     </scm>
 
     <developers>
